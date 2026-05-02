@@ -1,0 +1,9 @@
+*.bin
+*.parquet
+*.gguf
+*.jsonl
+__pycache__/
+.env
+*.md
+!README.md
+!adversarial_mock_test.md
